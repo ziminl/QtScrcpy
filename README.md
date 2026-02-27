@@ -2,7 +2,10 @@ https://github.com/w4po/ScrcpyKeyMapper
 
 
 
-
+      "leftOffset": 0.35,
+      "rightOffset": 0.35,
+      "upOffset": 0.35,
+      "downOffset": 0.35,
 
 
 
