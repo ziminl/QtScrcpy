@@ -1,0 +1,155 @@
+{
+  "switchKey": "Key_Control",
+  "mouseMoveMap": {
+    "comment": "",
+    "type": "KMT_MOUSE_MOVE",
+    "startPos": {
+      "x": 0.722,
+      "y": 0.481
+    },
+    "speedRatioX": 1,
+    "speedRatioY": 1
+  },
+  "keyMapNodes": [
+    {
+      "comment": "",
+      "type": "KMT_STEER_WHEEL",
+      "centerPos": {
+        "x": 0.1626,
+        "y": 0.7437
+      },
+      "leftOffset": 0.35,
+      "rightOffset": 0.35,
+      "upOffset": 0.35,
+      "downOffset": 0.35,
+      "leftKey": "Key_A",
+      "rightKey": "Key_D",
+      "upKey": "Key_W",
+      "downKey": "Key_S",
+      "switchMap": true,
+      "opacity": 1
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.4401,
+        "y": 0.8897
+      },
+      "key": "Key_1",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.544,
+        "y": 0.8808
+      },
+      "key": "Key_2",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.7582,
+        "y": 0.8821
+      },
+      "key": "Key_R",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.8483,
+        "y": 0.6897
+      },
+      "key": "LeftButton",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.9298,
+        "y": 0.6449
+      },
+      "key": "Key_V",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.9204,
+        "y": 0.1205
+      },
+      "key": "Key_6",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.8591,
+        "y": 0.8949
+      },
+      "key": "Key_C",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.8519,
+        "y": 0.1154
+      },
+      "key": "Key_5",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.1264,
+        "y": 0.2641
+      },
+      "key": "Key_Q",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.2029,
+        "y": 0.2603
+      },
+      "key": "Key_E",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.1625,
+        "y": 0.1487
+      },
+      "key": "Key_Z",
+      "switchMap": false
+    },
+    {
+      "comment": "",
+      "type": "KMT_CLICK",
+      "pos": {
+        "x": 0.8736,
+        "y": 0.5244
+      },
+      "key": "RightButton",
+      "switchMap": false
+    }
+  ],
+  "width": 1920,
+  "height": 1080
+}
